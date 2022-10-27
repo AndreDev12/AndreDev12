@@ -1,11 +1,10 @@
 # Hi! 👋🏼 I'm Hector Andre. 
 
-###  I'm a front-end developer and college student.
+###  I'm a front-end developer.
 
-- 🌱 I’m currently learning the Redux pattern.
+- 🌱 I’m currently learning the Redux pattern and TypeScript.
 - 🛠️ In my free time, I build [Frontend Mentor](https://www.frontendmentor.io/) challenges, to improve my skills and keep learning about new technologies.
 - 💜 I love to learn the english language.
-- 😎 I like dancing and electronic music.
 
 ## 🚀 Projects: 
 I enjoy developing projects to improve my programming logic. These are my recent projects:
