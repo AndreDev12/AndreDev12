@@ -2,7 +2,7 @@
 
 ###  I'm a front-end developer.
 
-- 🌱 I’m currently learning the Redux pattern and TypeScript.
+- 🌱 I’m currently learning TypeScript, Redux and Next.JS.
 - 🛠️ In my free time, I build [Frontend Mentor](https://www.frontendmentor.io/) challenges, to improve my skills and keep learning about new technologies.
 - 💜 I love to learn the english language.
 
