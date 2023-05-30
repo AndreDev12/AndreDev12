@@ -2,12 +2,12 @@
 
 ###  I'm a front-end developer.
 
-- 🌱 I’m currently learning TypeScript, Redux and Next.JS.
-- 🛠️ In my free time, I build [Frontend Mentor](https://www.frontendmentor.io/) challenges, to improve my skills and keep learning about new technologies.
-- 💜 I love to learn the english language.
+- 🌱 I’m currently learning Redux and Python.
+- 💜 I really like programming.
+- 🛠️ In my free time, I learn new technologies.
 
 ## 🚀 Projects: 
-I enjoy developing projects to improve my programming logic. These are my recent projects:
+I enjoy developing projects to improve my programming logic. These are my projects:
 
 - [REST Countries API with color theme switcher](https://github.com/AndreDev12/rest-countries-api-with-color-theme-switcher)
 - [IP address tracker](https://github.com/AndreDev12/ip-address-tracker)
@@ -20,14 +20,14 @@ I enjoy developing projects to improve my programming logic. These are my recent
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📱 Get in touch: 
 
