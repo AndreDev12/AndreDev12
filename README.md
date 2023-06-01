@@ -2,9 +2,9 @@
 
 ###  I'm a front-end developer.
 
-- 🌱 I’m currently learning Redux and Python.
+- 🛠️ I am currently working as a freelance frontend developer at GamiLife.
+- 🌱 In my free time, I learn Redux and Python.
 - 💜 I really like programming.
-- 🛠️ In my free time, I learn new technologies.
 
 ## 🚀 Projects: 
 I enjoy developing projects to improve my programming logic. These are my projects:
@@ -20,12 +20,15 @@ I enjoy developing projects to improve my programming logic. These are my projec
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-BF4080?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1B1B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-D26AC2?style=for-the-badge&logo=styled-components&logoColor=white)
+![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
