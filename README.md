@@ -1,22 +1,15 @@
-# Hi! 👋🏼 I'm Hector Andre. 
+# Hola! 👋🏼 Soy Héctor André. 
 
-###  I'm a front-end developer.
+###  Soy desarrollador frontend.
 
-- 🛠️ I am currently working as a freelance frontend developer at GamiLife.
-- 🌱 In my free time, I learn Redux and Python.
-- 💜 I really like programming.
+- 🌱 Soy un autodidacta y universitario del octavo ciclo de la facultad de ingeniería de sistemas.
+- 🛠️ Durante los 4 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito. Mis objetivos principales eran la maquetación y programación de funcionalidades.
+- 💜 Me apasiona seguir aprendiendo sobre las últimas tendencias en el desarrollo web, y siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado con las nuevas tecnologías. Actualmente estoy aprendiendo Redux, React native, Node.JS y AWS.
 
-## 🚀 Projects: 
-I enjoy developing projects to improve my programming logic. These are my projects:
+## 🚀 Proyecto destacado: 
+- [Repositorio del proyecto](https://github.com/GamiLife/EasyMenuWeb) 
 
-- [REST Countries API with color theme switcher](https://github.com/AndreDev12/rest-countries-api-with-color-theme-switcher)
-- [IP address tracker](https://github.com/AndreDev12/ip-address-tracker)
-- [Intro component with sign up form](https://github.com/AndreDev12/intro-component-with-signup-form)
-- [Startup portfolio](https://github.com/AndreDev12/startup-portfolio)
-- [Marvel characters](https://github.com/AndreDev12/marvel-characters)
-- [Intro section with dropdown navigation](https://github.com/AndreDev12/intro-section-with-dropdown-navigation)
-
-## 🛠 Technologies I work with:
+## 🛠 Tecnologías con las que trabajo:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +25,7 @@ I enjoy developing projects to improve my programming logic. These are my projec
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📱 Get in touch: 
+## 📱 Ponerse en contacto: 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HectorAndreHT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-huambachano-torres/)
