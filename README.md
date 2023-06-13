@@ -2,14 +2,21 @@
 
 ###  Soy desarrollador frontend.
 
-- 🌱 Soy un autodidacta y universitario del octavo ciclo de la facultad de ingeniería de sistemas.
-- 🛠️ Durante los 4 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito. Mis objetivos principales eran la maquetación y programación de funcionalidades.
-- 💜 Me apasiona seguir aprendiendo sobre las últimas tendencias en el desarrollo web, y siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado con las nuevas tecnologías. Actualmente estoy aprendiendo Redux, React native, Node.JS y AWS.
+- 💬 Soy autodidacta y universitario del octavo ciclo de la facultad de ingeniería de sistemas.
+- 🔭 Durante los 4 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito. Mis objetivos específicos eran la maquetación y programación de funcionalidades.
+- 💜 Me entusiasmo al seguir aprendiendo sobre las últimas tendencias en el desarrollo web, y siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado con las nuevas tecnologías. Actualmente estoy aprendiendo Redux, React native, Node.JS y Amazon web services.
 
-## 🚀 Proyecto destacado: 
-- [Repositorio del proyecto](https://github.com/GamiLife/EasyMenuWeb) 
+## 🚀 Proyecto freelance: 
+La interfaz con las características principales del proyecto:
 
-## 🛠 Tecnologías con las que trabajo:
+![Home](https://github.com/AndreDev12/AndreDev12/assets/77453863/0f729e02-193f-4ebd-a015-3cb79d6d62ca)
+![Products](https://github.com/AndreDev12/AndreDev12/assets/77453863/7015fc12-b4e9-471c-a096-6967ea2132f5)
+![Cart](https://github.com/AndreDev12/AndreDev12/assets/77453863/6b29cee2-ae20-41b6-8e0d-03fca9da3983)
+
+- [Repositorio EasyMenuWeb](https://github.com/GamiLife/EasyMenuWeb)
+- [Repositorio EasyMenuCMS](https://github.com/GamiLife/EasyMenuCMS) 
+
+## 🛠️ Tecnologías con las que trabajo:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,10 +32,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📱 Ponerse en contacto: 
+## 📫 Ponerse en contacto: 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HectorAndreHT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-huambachano-torres/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HectorAndreHT)
 
 <!--
 **AndreDev12/AndreDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
