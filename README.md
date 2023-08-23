@@ -2,9 +2,9 @@
 
 ###  Soy desarrollador frontend.
 
-- 💬 Soy un entusiasta autodidacta y universitario del octavo ciclo de la facultad de ingeniería de sistemas. Mi aspiración es convertirme en desarrollador full-stack.
+- 💬 Soy un entusiasta autodidacta.
 - 🔭 Durante los 4 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito. Mis objetivos específicos eran la maquetación y programación de funcionalidades.
-- 💜 Me entusiasmo al seguir aprendiendo sobre las últimas tendencias en el desarrollo web, y siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado con las nuevas tecnologías. Actualmente estoy aprendiendo Redux, React native, Node.JS y Amazon web services.
+- 💜 Me entusiasmo al seguir aprendiendo sobre las últimas tendencias en el desarrollo web, y siempre estoy buscando oportunidades para mejorar mis habilidades y mantenerme actualizado con las nuevas tecnologías. Actualmente estoy aprendiendo Redux y TailwindCSS.
 
 ## 🚀 Proyecto freelance: 
 Este es el proyecto en el que trabajé anteriormente para la startup [GamiLife](https://github.com/GamiLife), en las siguientes imágenes se visualiza la interfaz con sus características principales:
