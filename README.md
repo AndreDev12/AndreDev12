@@ -2,7 +2,7 @@
 
 ###  Soy desarrollador frontend.
 
-- 🔭 Durante los 5 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos específicos eran la maquetación y programación de funcionalidades.
+- 🔭 Durante los 5 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos eran maquetar y programar funcionalidades.
 - 💬 Soy comprometido, trabajo en equipo y entusiasta de las tecnologpias web.
 - 💜 Actualmente estoy aprendiendo Redux y TailwindCSS.
 
