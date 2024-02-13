@@ -4,7 +4,7 @@
 
 - 🔭 Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos eran maquetar y programar funcionalidades.
 - 💬 Soy comprometido, trabajo en equipo y entusiasta de las tecnologpias web.
-- 💜 Actualmente estoy aprendiendo Node.js, Python, React native, Redux y TailwindCSS.
+- 💜 Actualmente estoy aprendiendo Node.js, Express.js, Python, React native, Redux y TailwindCSS.
 
 ## 🚀 Proyecto freelance destacado: 
 Este es el repositorio [EasyMenuWeb](https://github.com/GamiLife/EasyMenuWeb) del sitio web de comida rápida en el que trabajé, en las siguientes imágenes se visualiza las interfaces de usuario del home y detalles del producto.
