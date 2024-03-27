@@ -6,13 +6,6 @@
 - 💬 Soy comprometido, trabajo en equipo y entusiasta de las tecnologpias web.
 - 💜 Actualmente estoy aprendiendo Node.js, Express.js, SQL, MySQL, Python, React native, Redux y TailwindCSS.
 
-## 🚀 Proyecto freelance destacado: 
-Este es el repositorio [EasyMenuWeb](https://github.com/GamiLife/EasyMenuWeb) del sitio web de comida rápida en el que trabajé, en las siguientes imágenes se visualiza las interfaces de usuario del home y detalles del producto.
-
-![Home](https://github.com/AndreDev12/AndreDev12/assets/77453863/0f729e02-193f-4ebd-a015-3cb79d6d62ca)
-![Products](https://github.com/AndreDev12/AndreDev12/assets/77453863/7015fc12-b4e9-471c-a096-6967ea2132f5)
-![Cart](https://github.com/AndreDev12/AndreDev12/assets/77453863/6b29cee2-ae20-41b6-8e0d-03fca9da3983)
-
 ## 🛠️ Tecnologías con las que trabajo:
 
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
