@@ -1,9 +1,9 @@
 # ¡Hola! 👋🏼 Soy Héctor André. 
 
-###  Soy desarrollador frontend.
+## 💜 Soy desarrollador frontend.
 
-- 🔭 Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos eran maquetar y programar funcionalidades.
-- 💜 Actualmente estoy aprendiendo Node.js, Express.js, SQL, MySQL, PostgreSQL, TailwindCSS, MaterialUI, Redux y Next.js.
+- Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos eran maquetar y programar funcionalidades.
+- Actualmente estoy aprendiendo Node.js, Express.js, SQL, MySQL, PostgreSQL, TailwindCSS, MaterialUI, Redux y Next.js.
 
 ## 🛠️ Tecnologías con las que trabajo:
 
