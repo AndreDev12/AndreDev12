@@ -8,6 +8,8 @@
 ## 🛠️ Tecnologías con las que trabajo:
 
 - Frontend: React, TypeScript, JavaScript, Styled components, SASS, CSS3 y HTML.
+- Backend:
+- Base de datos:
 - Herramienta: Git.
 <!--![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=61DAFB)
