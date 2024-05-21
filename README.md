@@ -3,13 +3,13 @@
 ## 💜 Soy desarrollador frontend.
 
 - Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de trabajar en un proyecto emocionante, sobre el desarrollo del frontend de un sitio web de comida rápida, en el cual los usuarios puedan agregar los productos al carrito de compras. Mis objetivos eran maquetar y programar funcionalidades.
-- Actualmente estoy aprendiendo Node.js, Express.js, SQL, MySQL, PostgreSQL, TailwindCSS, MaterialUI, Redux y Next.js.
+<!-- - Actualmente estoy aprendiendo TailwindCSS, MaterialUI, Redux y Next.js.-->
 
 ## 🛠️ Tecnologías con las que trabajo:
 
 - Frontend: React, TypeScript, JavaScript, Styled components, SASS, CSS3 y HTML.
-- Backend:
-- Base de datos:
+- Backend: Node.js y Express.js.
+- Base de datos: PostgreSQL y MySQL.
 - Herramienta: Git.
 <!--![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=61DAFB)
