@@ -25,8 +25,8 @@ Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de traba
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)-->
 
 ## 📫 Ponerse en contacto: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huambachanotorres/)
+- LinkedIn: https://www.linkedin.com/in/huambachanotorres/
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huambachanotorres/)-->
 
 <!--
 **AndreDev12/AndreDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
