@@ -25,7 +25,7 @@ Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de traba
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)-->
 
 ## 📫 Ponerse en contacto: 
-- LinkedIn: https://www.linkedin.com/in/huambachanotorres/
+- LinkedIn: https://www.linkedin.com/in/huambachanotorres
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huambachanotorres/)-->
 
 <!--
