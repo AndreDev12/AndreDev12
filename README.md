@@ -7,7 +7,7 @@ Durante los 6 meses de mi experiencia laboral, he tenido la oportunidad de traba
 
 ## 🛠️ Tecnologías con las que trabajo:
 
-- Frontend: React, TypeScript, JavaScript, Styled components, SASS, CSS3 y HTML.
+- Frontend: TypeScript, JavaScript, React, Styled components, SASS, CSS3 y HTML.
 - Backend: Node.js y Express.js.
 - Base de datos: PostgreSQL.
 - Herramienta: Git.
