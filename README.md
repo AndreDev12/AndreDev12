@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏼 Soy Héctor André. 
+# ¡Hola! Soy Héctor André. 👋🏼
 
 ### 💜 Soy desarrollador fullstack JavaScript.
 
